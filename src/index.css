@@ -52,7 +52,19 @@ main {
   max-width: 50rem;
   margin: auto;
 }
+code {
+  background-color: #140524;
+  border-radius: 6px;
+  padding: 16px;
+  color: #ebe7ef;
+  font-family: 'Courier New', Courier, monospace;
+  display: block;
+  width: 100%;
 
+  box-sizing: border-box;
+  overflow-x: auto;
+
+}
 #core-concepts {
   padding: 2rem;
   border-radius: 6px;

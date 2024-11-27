@@ -1,3 +1,3 @@
 export interface HeaderProps {
-	headerImg: string
+  headerImg: string
 }
